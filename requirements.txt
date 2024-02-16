@@ -1,0 +1,16 @@
+langchain
+google-cloud-aiplatform
+bs4
+elasticsearch
+flask
+unstructured
+selenium
+faiss-cpu
+openai
+Chroma
+chromadb
+tiktoken
+fastapi
+uvicorn
+playwright
+selectolax
